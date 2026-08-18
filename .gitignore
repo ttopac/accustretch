@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+*.stp
+*.step
+*.odb
+*.cae
+*.sat
+*.dxf
+*.mp4
+.vscode/
+.idea/
