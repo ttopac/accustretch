@@ -55,8 +55,8 @@ repository structure.
 ## Citation
 
 Please cite the npj Flexible Electronics article above. Earlier stages of
-this work appeared at IWSHM 2019 (doi 10.12783/shm2019/32426) and at
-InnoLAE 2021.
+this work were presented at IWSHM 2019 (doi 10.12783/shm2019/32426) and
+as a conference abstract at innoLAE 2021.
 
 ## Acknowledgement
 
